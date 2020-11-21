@@ -1,4 +1,4 @@
-# StockPrices (aka Maximum Proft)
+# StockPrices (aka Maximum Profit)
 
 ![Maximum Profit](https://github.com/elsauto/StockPrices/blob/main/images/banner.png "Maximum Profit")
 ## Context:
@@ -19,4 +19,4 @@ The algorithm works iterating over a nested for loop. All values in the sequence
 * values where buy: $9 and sell $10 --> Max Profit: 1
 * values where buy: $45 and sell $460 --> Max Profit: 415
 
-Hope it helps!.
+Hope it helps! 😎.
