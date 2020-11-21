@@ -18,4 +18,6 @@ The algorithm works iterating over a nested for loop. All values in the sequence
 * values where buy: $9 and sell $10 --> Max Profit: 1
 * values where buy: $45 and sell $460 --> Max Profit: 415
 
+[logo]: https://github.com/elsauto/StockPrices/blob/main/images/banner.png
+
 Hope it helps!.
